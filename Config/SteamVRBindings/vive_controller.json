@@ -1,0 +1,8 @@
+{
+	"name": "Default bindings for Vive Controllers",
+	"controller_type": "vive_controller",
+	"bindings":
+	{
+	},
+	"description": ""
+}

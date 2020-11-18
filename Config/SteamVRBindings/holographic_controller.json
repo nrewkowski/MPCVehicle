@@ -1,0 +1,8 @@
+{
+	"name": "Default bindings for Holographic Controllers",
+	"controller_type": "holographic_controller",
+	"bindings":
+	{
+	},
+	"description": ""
+}
